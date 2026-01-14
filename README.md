@@ -16,12 +16,12 @@
 pip install -r requirements.txt
 python whatsapp_expense_bot.py
 
-Sample Output
+## Sample Output
 
 @ Processed 3 expenses
 Pending: 0 | Approved: 1 | Rejected: 1
 
- PRODUCTION READY
+ ## PRODUCTION READY
 
 @ WhatsApp webhook parsing
 @ Expense extraction (NLP)
