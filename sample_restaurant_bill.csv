@@ -1,0 +1,12 @@
+RestaurantName,Address,GSTIN,Phone,BillNo,Date,Time,TableNo,Server,Customer
+"SPICE GARDEN FAMILY RESTAURANT","MG Road, Bhopal – 462001","22ABCDE1234F1Z5","+91-98765-43210","SG-2026-00157","15-01-2026","20:42","T-07","Amit","Walk-in Guest"
+
+ItemSNo,ItemName,Quantity,Rate,Amount
+1,Paneer Tikka,1,260.00,260.00
+2,"Veg Manchurian Dry",1,220.00,220.00
+3,Butter Naan,4,45.00,180.00
+4,Dal Tadka,1,190.00,190.00
+5,"Masala Cola",2,80.00,160.00
+
+SubTotal,CGST_2_5_Percent,SGST_2_5_Percent,ServiceCharge_5_Percent,GrandTotal,AmountInWords,PaymentMode,PaymentRef
+1010.00,25.25,25.25,50.50,1111.00,"One Thousand One Hundred Eleven Rupees Only","UPI","UPI202601151234"
