@@ -29,9 +29,13 @@ Project Structure
 text
 whatsapp-expense-approval-bot/
 ├── whatsapp_expense_bot.py      # Main demo script
+
 ├── requirements.txt             # Python dependencies
+
 ├── README.md                    # Project documentation
+
 ├── expense_approvals.csv        # Auto-generated "Google Sheet" (after running)
+
 └── expense_dashboard.sql        # Sample SQL queries for analytics
 
 ## Run Demo
