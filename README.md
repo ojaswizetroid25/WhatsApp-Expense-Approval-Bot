@@ -14,7 +14,7 @@
 ## Run Demo
 ```bash
 pip install -r requirements.txt
-python whatsapp_expense_bot.py
+python whatsapp_expense_bot.py.
 
 ## Sample Output
 
