@@ -29,7 +29,7 @@ Pending: 0 | Approved: 1 | Rejected: 1
 
 @ SQL analytics dashboard
 
-Project Structure
+## Project Structure
 
 whatsapp-expense-approval-bot/
 
