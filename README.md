@@ -28,3 +28,12 @@ Pending: 0 | Approved: 1 | Rejected: 1
 @ Manager approval workflow
 @ Google Sheets API integration
 @ SQL analytics dashboard
+
+Project Structure
+text
+whatsapp-expense-approval-bot/
+├── whatsapp_expense_bot.py      # Main demo script
+├── requirements.txt             # Python dependencies
+├── README.md                    # Project documentation
+├── expense_approvals.csv        # Auto-generated "Google Sheet" (after running)
+└── expense_dashboard.sql        # Sample SQL queries for analytics
