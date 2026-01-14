@@ -11,10 +11,6 @@
 
 4.SQL Dashboard: Manager analytics
 
-## Run Demo
-```bash
-pip install -r requirements.txt
-python whatsapp_expense_bot.py.
 
 ## Sample Output
 
@@ -37,3 +33,9 @@ whatsapp-expense-approval-bot/
 ├── README.md                    # Project documentation
 ├── expense_approvals.csv        # Auto-generated "Google Sheet" (after running)
 └── expense_dashboard.sql        # Sample SQL queries for analytics
+
+## Run Demo
+```bash
+pip install -r requirements.txt
+python whatsapp_expense_bot.py.
+
