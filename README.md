@@ -20,14 +20,19 @@ Pending: 0 | Approved: 1 | Rejected: 1
  ## PRODUCTION READY
 
 @ WhatsApp webhook parsing
+
 @ Expense extraction (NLP)
+
 @ Manager approval workflow
+
 @ Google Sheets API integration
+
 @ SQL analytics dashboard
 
 Project Structure
-text
+
 whatsapp-expense-approval-bot/
+
 ├── whatsapp_expense_bot.py      # Main demo script
 
 ├── requirements.txt             # Python dependencies
